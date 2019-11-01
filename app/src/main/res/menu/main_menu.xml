@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        android:icon="@drawable/ic_search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+    <item
+        android:id="@+id/action_mic"
+        android:title="Speak"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_mic"
+        />
+
+    <item
+        android:id="@+id/action_category"
+        android:title="Category"
+        app:showAsAction="always|withText"
+        app:actionViewClass="androidx.appcompat.widget.AppCompatSpinner"/>
+
+
+    <item
+        android:title="Signout"
+        app:showAsAction="never"
+        android:id="@+id/signoutM"/>
+
+</menu>

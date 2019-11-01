@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6772e5</color>
+    <color name="colorPrimaryDark">#555abf</color>
+    <color name="colorAccent">#6772e5</color>
+
+    <color name="textColorPrimary">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="nav_bg">#424242</color>
+
+
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_30">#4D000000</color>
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="overlay_dark_90">#E6000000</color>
+
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_90">#263238</color>
+
+
+    <!--Material color list from https://material.io/guidelines/style/color.html-->
+
+    <color name="red_400">#EF5350</color>
+    <color name="red_600">#E53935</color>
+
+    <color name="light_blue_300">#4FC3F7</color>
+
+    <color name="green_500">#4CAF50</color>
+
+    <color name="deep_orange_400">#FF7043</color>
+
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="blue_grey_400">#78909C</color>
+
+    <color name="indigo_400">#5C6BC0</color>
+
+    <color name="light_green_400">#9CCC65</color>
+
+    <color name="blue_400">#42A5F5</color>
+
+    <color name="orange_400">#FFA726</color>
+
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+
+
+    <!--for random color generator -->
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

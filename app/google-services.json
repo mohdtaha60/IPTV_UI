@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "452401703174",
+    "firebase_url": "https://loginiptv-72afe.firebaseio.com",
+    "project_id": "loginiptv-72afe",
+    "storage_bucket": "loginiptv-72afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452401703174:android:80c50c0f353fa1641c9687",
+        "android_client_info": {
+          "package_name": "com.iptv.loginiptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452401703174-1kqhhm4v60f0596j4fg4eg6cbbcdch4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0UUYvq_g_E0FuQ-XJtF9A6VAxb6-jtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452401703174-1kqhhm4v60f0596j4fg4eg6cbbcdch4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452401703174:android:e6840ab96c79a4e31c9687",
+        "android_client_info": {
+          "package_name": "osmandroid.iptv.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452401703174-fjkp8fm4h913ht1n7el4hlb65jajcc62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "osmandroid.iptv.home",
+            "certificate_hash": "833669c63c1288631b84be645786d3052935ed76"
+          }
+        },
+        {
+          "client_id": "452401703174-1kqhhm4v60f0596j4fg4eg6cbbcdch4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0UUYvq_g_E0FuQ-XJtF9A6VAxb6-jtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452401703174-1kqhhm4v60f0596j4fg4eg6cbbcdch4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
